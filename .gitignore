@@ -1,11 +1,17 @@
+<<<<<<< HEAD
 
 #system
 .DS_Store
 
+=======
+>>>>>>> a40ce0c9a895f48c7e357ee2b21db4bf66acebac
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # IPython
 profile_default/
 ipython_config.py
+<<<<<<< HEAD
 
+=======
+>>>>>>> a40ce0c9a895f48c7e357ee2b21db4bf66acebac
