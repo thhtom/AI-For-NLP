@@ -1,0 +1,17 @@
+
+2. Answer following questions:
+1. Why we need machine learning methods instead of creating a complicated formula?
+Ans:真实场景下，问题很复杂，要考虑的因素很多，很难去建模，通过大量的数据，让机器去学习，生成一定的模式，能够更好的解决问题。
+2. Wha't's the disadvantages of the 1st Random Choosen methods in our course?
+Ans:随机数很难选择到最优解，这个样的效率比较低。
+3. Is the 2nd method supervised direction better than 1st one? What's the disadvantages of the 2nd supversied directin method?
+Ans:是的，每次选择的方向仍然具有不确定性。
+4. Why do we use Derivative / Gredient to fit a target function?
+Ans:导数是函数在某点的变化率，通过观察导数可以找到函数变化的最大方向，减少不必要的计算，提升效率。梯度是函数在一点的最大变化方向导数，，沿着梯度方向函数有最大的变化率。梯度比导数更能体现函数的下降或上升的趋势。机器学习中使用梯度下降的方式拟合目标函数能够加快速度，加速模型的训练速度，提升效率。
+5. In the words 'Gredient Descent', what's the Gredient and what's the Descent?
+Ans:梯度是函数在某一点最大方向导数。梯度上升的方向和下降的方向点，找到loss最小的那个点，沿着梯度的一个方向一直走，就可以找局部最优解。
+6. What's the advantages of the 3rd gradient descent method compared to the previous methods?
+Ans:效率更高，可以更快的找到局部的最优解。
+7. Using the simple words to describe: What's the machine leanring.
+Ans:
+使用大量的数据训练机器，生成最能解决问题的函数或这模型。
